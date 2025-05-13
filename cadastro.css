@@ -1,0 +1,25 @@
+h1{ text-align: center;}
+h1{color: azure;}
+
+ h5{text-align: center;}
+ h2{text-align: center;}
+
+ nav{text-align: center;}
+
+ footer{text-align: center;}
+
+ header{background-color: rgb(191, 145, 197);}
+
+ footer{background-color: #643549;}
+
+#orlap{color: black;}
+ a{text-decoration: none;}
+
+ p{color: aliceblue;}
+
+ div{
+    width: 400px;
+    height: 130px;
+    background-color:#bda2ae;
+    margin: 50px auto;}
+ 

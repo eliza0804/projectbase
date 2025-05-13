@@ -1,0 +1,38 @@
+h1{text-align: center;}
+h1{color: azure;}
+
+h5{text-align: center;}
+
+nav{text-align: center;}
+
+footer{text-align: center;}
+
+header{background-color: rgb(197, 145, 169);}
+
+footer{background-color: #7a495d;}
+
+a{text-decoration: none;}
+
+#Pparque{color:black;}
+
+#finalparque{color: aliceblue;}
+
+*{
+    margin: 0;
+    padding: 0;
+ }
+ div{
+    width: 500px;
+    height: 600px;
+    background-color:#bda2ae;
+    margin: 50px auto;
+    text-align: center; }
+
+ul{display: inline-block;}
+  
+ #h3doatrativo{
+    border: 10px solid white;
+    border-radius: 80px ;
+ }
+p{margin: 30px 50px;}
+
