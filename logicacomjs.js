@@ -30,7 +30,7 @@ else if (idade>=18 && idade <=60)
 { alert ("Conteudo adulto")}
 
 else (idade>60)
-{alert ("Conteudo senior")} */
+{alert ("Conteudo senior")} 
 
 let pontuacao = Number(prompt("Digite sua pontuacao"))
 if (pontuacao <=1000) 
@@ -43,9 +43,44 @@ else if (pontuacao >=5001 && pontuacao <=10000)
 { alert ("Seu nivel é Expert e 1000XP")}
 
 else ( pontuacao>10000)
-{alert ("Seu nivel é mestre e 2000XP")}
+{alert ("Seu nivel é mestre e 2000XP")} 
 
 
+let assinatura = Number(prompt("Digite qual assinatura voce quer"))
+let planobasico = 25;
+let planopremium = 40;
+let planoultra = 60;
+let telastresaquatro = 5;
+let telasmaisdequatro = 7.50; 
+
+
+function saudar() {
+    alert("Desejo uma boa navegação no nosso site!")
+}
+saudar()*/
+/*
+
+function dobrarNumero(numero) {
+    return numero * 2
+}
+let resultado = dobrarNumero(25)
+alert ("O calculo do dobro do numero é: " +resultado) */
+/*
+function Cumprimentar(nome) {
+    alert("Olá "+nome+" como está seu dia?")
+}
+let nomedoaluno = prompt("Digite o seu nome jovem: ")
+Cumprimentar(nomedoaluno) 
 
     
+ function contagemRegressiva(numero){
+    console.log(numero)
+    if(numero ===0) {
+        console.log("Chegou");
+        return ;
+        contagemRegressiva(numero-1)
+    }
+    contagemRegressiva(10)} */
 
+    
+ 
